@@ -1,0 +1,13 @@
+# Environment variables
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+
+# Test artifacts
+.pytest_cache/
+
+# Generated files
+*.log
+personas/*.json
