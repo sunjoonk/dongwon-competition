@@ -11,7 +11,7 @@
 
 ## 프로젝트 구조
 ```
-dongwon-sales-simulator/
+dongwon-competition/
 ├── src/
 │   └── dongwon/
 │       ├── __init__.py          # 패키지 초기화
