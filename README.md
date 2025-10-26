@@ -59,6 +59,3 @@ python -m src.dongwon.cli
 
 ## 환경 설정
 - API 키 및 기타 설정을 위해 `.env.example` 파일을 기반으로 `.env` 파일을 생성하세요.
-
-## 라이선스
-이 프로젝트는 MIT 라이선스 하에 있습니다. 자세한 내용은 LICENSE 파일을 참조하세요.
