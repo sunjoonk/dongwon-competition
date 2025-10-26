@@ -15,7 +15,7 @@ dongwon-competition/
 ├── src/
 │   └── dongwon/
 │       ├── __init__.py          # 패키지 초기화
-│       ├── cli.py               # **시뮬레이션 실행을 위한 명령어 인터페이스(CLI)**
+│       ├── cli.py               # 시뮬레이션 실행을 위한 명령어 인터페이스(CLI)
 │       ├── config.py            # 설정 관리(API 키 등)
 │       ├── logger.py            # 로깅 설정
 │       ├── api.py               # Google Gemini API 통신
